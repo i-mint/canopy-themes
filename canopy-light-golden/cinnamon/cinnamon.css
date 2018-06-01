@@ -998,7 +998,7 @@ StScrollBar {
   border: 0px solid black; }
   .menu-category-button-selected {
     padding-left: 3px;
-    padding-right: 0px;
+    padding-right: 7px;
     padding-top: 7px;
     padding-bottom: 7px;
     color: #2E2E2E;
@@ -1010,10 +1010,10 @@ StScrollBar {
     background-color: red;
     border-radius: 2px; }
   .menu-category-button-greyed {
-    padding: 7px;
+    padding: 6px;
     color: rgba(46, 46, 46, 0.55);
     border: 1px solid transparent;
-    font-family: Cherry swash, sans-serif, serif; }
+    font-family: sans-serif, serif; }
   .menu-category-button-label:ltr {
     padding-left: 5px; }
   .menu-category-button-label:rtl {
